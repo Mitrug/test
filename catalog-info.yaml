@@ -2,6 +2,7 @@ apiVersion: v2.0.1
 kind: Component
 metadata:
   name: test-app
+  title: Test App
   description: Testing out backstage
   labels:
     system: core-app

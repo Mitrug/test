@@ -1,0 +1,13 @@
+apiVersion: v2.0.1
+kind: Component
+metadata:
+  name: test-app
+  description: Testing out backstage
+  labels:
+    system: core-app
+  tags:
+    - java
+spec:
+  type: service
+  lifecycle: production
+  owner: massimo-team

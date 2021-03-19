@@ -2,6 +2,13 @@ site_name: 'example-docs'
 
 nav:
   - Home: index.md
+  - Introduction: introduction.md
+  - Install: install.md
+  - Configuration: configuration.md
+  - Example: example.md
+  - Development: development.md
+  - Deployment: deployment.md
+  - Release notes: release_notes.md
 
 plugins:
   - techdocs-core

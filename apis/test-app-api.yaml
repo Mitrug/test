@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: test-app
+  description: Testing the world
+spec:
+  type: openapi
+  lifecycle: production
+  owner: massimo-team
+  definition:
+    $text: ./spec.json

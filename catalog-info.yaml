@@ -14,5 +14,5 @@ spec:
   type: openapi
   lifecycle: production
   owner: massimo-team
-  definition: 
-    $text: ./spec.json
+  providesApis:
+    - test-the-world

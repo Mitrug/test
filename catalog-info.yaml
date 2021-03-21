@@ -15,4 +15,4 @@ spec:
   lifecycle: production
   owner: massimo-team
   definition: 
-    $text: spec.json
+    $text: ./spec.json

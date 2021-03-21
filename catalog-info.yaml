@@ -11,7 +11,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/Mitrug/test
 spec:
-  type: openapi
+  type: service
   lifecycle: production
   owner: massimo-team
   providesApis:

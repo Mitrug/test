@@ -7,5 +7,6 @@ spec:
   type: openapi
   lifecycle: production
   owner: massimo-team
+  system: test-app
   definition:
     $text: ./spec.json

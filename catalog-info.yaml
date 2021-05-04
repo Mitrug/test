@@ -9,7 +9,7 @@ metadata:
   tags:
     - java
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/Mitrug/test/docs
+    backstage.io/techdocs-ref: url:https://github.com/Mitrug/test
 spec:
   type: service
   lifecycle: production

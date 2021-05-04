@@ -1,14 +1,14 @@
 site_name: 'test-app'
 
 nav:
-  - Home: index.md
-  - Introduction: introduction.md
-  - Install: install.md
-  - Configuration: configuration.md
-  - Example: example.md
-  - Development: development.md
-  - Deployment: deployment.md
-  - Release notes: release_notes.md
+  - Home: docs/index.md
+  - Introduction: docs/introduction.md
+  - Install: docs/install.md
+  - Configuration: docs/configuration.md
+  - Example: docs/example.md
+  - Development: docs/development.md
+  - Deployment: docs/deployment.md
+  - Release notes: docs/release_notes.md
 
 plugins:
   - techdocs-core

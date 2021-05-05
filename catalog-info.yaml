@@ -8,6 +8,7 @@ metadata:
     system: core-app
   tags:
     - java
+    - kill-it
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/Mitrug/test
 spec:
